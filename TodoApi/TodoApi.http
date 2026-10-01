@@ -1,0 +1,7 @@
+@TodoApi_HostAddress = http://localhost:5209
+
+GET {{TodoApi_HostAddress}}api/banner
+Accept: application/json
+
+###
+ 
